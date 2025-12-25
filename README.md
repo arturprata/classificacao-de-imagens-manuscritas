@@ -65,21 +65,9 @@ As tabelas de classificação e matrizes de confusão completas estão disponív
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```text
-/
-├── src/                    # Scripts de treinamento e avaliação
-├── data/                   # Base de dados (referência ou instruções)
-├── article/                # Artigo em PDF
-└── README.md               # Este arquivo
-```
-
----
-
 ## 🧪 Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.12
 - NumPy, Pandas
 - Scikit-learn
 - Scikit-image
